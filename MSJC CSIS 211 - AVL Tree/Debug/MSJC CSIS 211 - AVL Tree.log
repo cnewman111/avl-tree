@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\colin\Documents\Internships\Github Project\MSJC CSIS 211 - AVL Tree\MSJC CSIS 211 - AVL Tree\AVLTree.h(162): warning C4715: 'AVLTree<double>::contains': not all control paths return a value
+  MSJC CSIS 211 - AVL Tree.vcxproj -> C:\Users\colin\Documents\Internships\Github Project\MSJC CSIS 211 - AVL Tree\Debug\MSJC CSIS 211 - AVL Tree.exe
