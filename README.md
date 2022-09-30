@@ -1,3 +1,3 @@
 # AVL Tree
 
-This is a AVL tree that I wrote for my Data Structures class. It has the functionality of a binary tree, but implements trinode restructuring to reduce the worst case element access time complexity to O(log(n)) rather than O(n).
+This is a AVL tree that I wrote for my Data Structures class at Mount San Jacinto College. It is a balanced binary tree that has worst case element access O(log(n))
